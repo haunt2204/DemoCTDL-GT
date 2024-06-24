@@ -1,0 +1,11 @@
+10
+2018001#Nguyen Van An#15/01/2000#Ha Noi#8.2
+2018002#Tran Thi Bich#22/03/2000#Ho Chi Minh#7.5
+2018003#Le Van Cuong#10/05/2000#Da Nang#8.0
+2018004#Pham Thi Dao#05/07/2000#Hai Phong#8.4
+2018005#Hoang Van Em#18/09/2000#Can Tho#7.8
+2018006#Dang Thi Phuong#20/11/2000#Nha Trang#8.1
+2018007#Vo Van Hieu#30/01/2000#Hue#7.9
+2018008#Bui Thi Lan#25/02/2000#Quang Ninh#8.3
+2018009#Ngo Van Minh#12/04/2000#Binh Duong#7.7
+2018010#Do Thi Thu#03/06/2000#Hai Duong#8.5
