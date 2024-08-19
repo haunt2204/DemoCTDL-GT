@@ -1,0 +1,19 @@
+father#N#bo
+mother#N#me
+sister#N#chi/em gai
+brother#N#anh/em trai
+family#N#gia dinh
+happy#ADJ#vui ve
+sad#ADJ#buon
+love#V#yeu
+care#V#cham soc
+ball#N#bong
+goal#N#cau mong
+player#N#cau thu
+team#N#doi
+match#N#tran dau
+score#V#ghi ban
+pass#V#chuyen
+shoot#V#sut
+win#V#thang
+lose#V#thua
